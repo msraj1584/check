@@ -10,7 +10,10 @@ h1{
     font-size: 3rem;
     font-weight: 900;
 }
-ul,li{
+ul{
     color: white;
+    text-decoration: none;
+}
+li{
     text-decoration: none;
 }
