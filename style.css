@@ -4,6 +4,9 @@ body{
     background-color: #57CC99;
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
+    font-size: 2rem;
+    
+    
     
 }
 h1{
@@ -11,4 +14,7 @@ h1{
     font-size: 3rem;
     font-weight: 900;
 }
-
+a{
+    text-decoration: none;
+    color: #fff;
+}
