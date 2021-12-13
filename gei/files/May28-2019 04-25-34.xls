@@ -1,0 +1,30 @@
+
+
+    <table  border="1">
+     <tr>
+     <th>S.No</th>
+     <th>Date</th>
+     <th>Department</th>
+      <th>Quota</th>
+      <th>Reference</th> 
+      <th>Reference Name</th> 
+      </tr>    <tr>
+  <td> 1</td>
+  <td> 26-05-2019</td>
+            <td >B.E-CSE </td>
+            <td> Government</td>
+            <td> Staff </td>
+            <td> SAVITHA </td> 
+        </tr>    <tr>
+  <td> 2</td>
+  <td> 25-05-2019</td>
+            <td >B.E- </td>
+            <td> Government</td>
+            <td> Student </td>
+            <td> SAKTHIVEL G</td> 
+        </tr> 
+    </table><table>
+<tr><td>Total No of Staff Count : 1</td></tr>
+<tr><td>Total No of Student Count : 1</td></tr>
+<tr><td>Total No of Consultancy Count : 0</td></tr>
+</table>
